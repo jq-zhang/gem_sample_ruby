@@ -1,6 +1,8 @@
 # GemSampleRuby
 
-TODO: Write a gem description
+[![Gem Version](https://badge.fury.io/rb/gem_sample_ruby.svg)](http://badge.fury.io/rb/gem_sample_ruby)
+
+This is a test gem can only say 'hello ruby'.
 
 ## Installation
 
@@ -20,7 +22,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+require 'gem_sample_ruby'
+puts GemSampleRuby.hello_ruby
+```
 
 ## Contributing
 
